@@ -1,5 +1,6 @@
-![Pradip Bedre ](https://user-images.githubusercontent.com/60803643/189429156-1581580b-b2aa-4c8d-9337-fb6ae737e747.png)
-# Pradip Bedre
+
+# Pradip Bedre![Pradip Bedre (1)](https://user-images.githubusercontent.com/60803643/208383590-7dca88ae-d4bb-4dd9-8728-832957b5ec85.png)
+
 I'm Pradip from India, I really enjoy learning languages and frameworks and new stuff in tech, and I just love development & developing web-app, tools that solve a problem, I'm passionate and curious about product development.
 
 ## Programming Languages
