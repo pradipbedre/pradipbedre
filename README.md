@@ -1,7 +1,7 @@
 ![Pradip Bedre (2)](https://user-images.githubusercontent.com/60803643/208384425-8be4b609-967c-4cfd-a4e8-305e687a6a78.png)
 
 
-I'm Pradip from India, I really enjoy learning languages and frameworks and new stuff in tech, and I just love development & developing web-app, tools that solve a problem, I'm passionate and curious about product development.
+I'm Pradip from India, I really enjoy learning languages and frameworks and new stuff in tech, and I just love development & developing web-app, tools that solve a problem, I'm passionate and curious about product development..
 
 ## Programming Languages
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
