@@ -1,4 +1,4 @@
-![Pradip Bedre ](https://github.com/pradipbedre/pradipbedre/assets/60803643/6cc6a9e4-3a8d-4c52-908a-f39a5d3b7f14)
+![github](https://github.com/pradipbedre/pradipbedre/assets/60803643/0fe1b0d1-5b2a-4d49-9b8d-7353a9013feb)
 
 
 I'm Pradip from India, I really enjoy learning languages and frameworks and new stuff in tech, and I just love development & developing web-app, tools that solve a problem, I'm passionate and curious about product development..
