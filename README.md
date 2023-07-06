@@ -2,16 +2,23 @@
 The Full Stack Developer & Product Developer
 
 ## Programming Languages
-
+- C++
+- Java
+- JavaScript
+- TypeScript 
 
 ## Frontend Development
+- React.Js
+- Next.Js
+- Tailwind CSS
 
 
 ## Backend Development
-
+- Node.Js
+- Rest APIs 
 
 ## Other
-
+- Figma
 
 
 ## Connect With Me
