@@ -15,7 +15,9 @@ The Full Stack Developer & Product Developer
 
 ## Backend Development
 - Node.Js
-- Rest APIs 
+- Rest APIs
+- PostgreSQL
+- MongoDB
 
 ## Other
 - Figma
