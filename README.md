@@ -1,8 +1,6 @@
 ![github](https://github.com/pradipbedre/pradipbedre/assets/60803643/0fe1b0d1-5b2a-4d49-9b8d-7353a9013feb)
 <p align="center">
-
-The Full Stack Developer & Product Developer
-
+   <b>The Full Stack Developer & Product Developer</b>
 </p>
 
 
