@@ -4,16 +4,16 @@
 
 <p align="center">
     <b>🎇Programming Languages🎇</b>
-    <p> C++ | JavaScript | TypeScript </p>
+   C++ | JavaScript | TypeScript 
 </p>
 
 <p align="center">
     <b>🎇Frontend Tech🎇</b>
-    <p> React.Js | Next.Js | Tailwind CSS </p>
+ React.Js | Next.Js | Tailwind CSS 
 </p>
 
 <p align="center">
-    <b>🎇Backend Techb>
-    <p> Node.Js | Rest APIs | PostgreSQL | MongoDB </p>
+    <b>🎇Backend Tech🎇</b>
+ Node.Js | Rest APIs | PostgreSQL | MongoDB 
 </p>
 
