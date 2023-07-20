@@ -2,14 +2,11 @@
     <b>🎇The Full Stack Developer & Product Developer🎇</b>
 </p>
 
-<p align="center">
-   ## Programming Languages
+## Programming Languages
 - C++
 - Java
 - JavaScript
 - TypeScript 
-</p>
-
 
 
 ## Frontend Tech
