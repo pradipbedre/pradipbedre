@@ -1,5 +1,5 @@
 <p align="center">
-    <b> 🎇The Full Stack Developer & Product Developer🎇</b>
+    <b>🎇The Full Stack Developer & Product Developer🎇</b>
 </p>
 
 
