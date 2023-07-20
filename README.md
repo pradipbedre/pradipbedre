@@ -9,13 +9,13 @@
 - JavaScript
 - TypeScript 
 
-## Frontend Development
+## Frontend Tech
 - React.Js
 - Next.Js
 - Tailwind CSS
 
 
-## Backend Development
+## Backend Tech
 - Node.Js
 - Rest APIs
 - PostgreSQL
