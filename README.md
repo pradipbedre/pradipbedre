@@ -1,4 +1,8 @@
+
+![Pradip Bedre ](https://github.com/pradipbedre/pradipbedre/assets/60803643/236c016d-6adf-4919-bfc8-0f3cec77617c)
+
 <h1 align="center">Hi 👋, I'm Pradip Bedre</h1>
+
 <h3 align="center">A full stack web developer from India</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@pradipbedre](https://medium.com/@pradipbedre)
