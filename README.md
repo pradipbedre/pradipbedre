@@ -5,7 +5,7 @@
 
 <h3 align="center">A full stack web developer from India</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@pradipbedre](https://medium.com/@pradipbedre)
+- 📝 My Words [https://medium.com/@pradipbedre](https://medium.com/@pradipbedre)
 
 - 📫 How to reach me **pradipbedreofficial@gmail.com**
 
